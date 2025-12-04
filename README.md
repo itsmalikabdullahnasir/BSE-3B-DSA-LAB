@@ -1,9 +1,5 @@
 # Banking Management System - BSE 3B DSA Lab Project
-
-**Team Members:**
-- Abdullah Nasir  
-- Zainab Asif  
-- Atqa Asma    
+  
 
 **Course:** Data Structures and Algorithms (DSA)  
 **University:** Bahria University BSE-3B  
